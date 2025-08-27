@@ -1,1 +1,1 @@
-# SammanDentalClinic
+# SammanDental
