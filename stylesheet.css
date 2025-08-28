@@ -13,7 +13,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #060558; /* dark navy */
+  background-color: #060558; 
   padding: 10px 40px;
 }
 
@@ -21,7 +21,7 @@ nav .logo {
   display: flex;
   align-items: center;
   gap: 10px;
-  color: #FFD700; /* yellow */
+  color: #FFD700; 
   font-size: 22px;
   font-weight: bold;
 }
@@ -41,12 +41,12 @@ nav ul {
 nav ul li a {
   text-decoration: none;
   font-size: 18px;
-  color: #FFD700; /* yellow */
+  color: #FFD700; 
   transition: color 0.3s ease;
 }
 
 nav ul li a:hover {
-  color: #00BFFF; /* sky blue hover */
+  color: #00BFFF; /
 }
 
 .home{
