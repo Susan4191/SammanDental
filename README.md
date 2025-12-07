@@ -1,4 +1,0 @@
-# SammanDental
-# SammanDental
-# SammanDental
-# SammanDental
